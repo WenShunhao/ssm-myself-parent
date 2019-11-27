@@ -139,3 +139,9 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+ssm-myself-dao/src/main/resources/
+ssm-myself-dao/src/test/
+ssm-myself-entity/src/main/java/dao/
+ssm-myself-entity/src/main/resources/
+ssm-myself-entity/src/test/
+ssm-myself-web/src/
